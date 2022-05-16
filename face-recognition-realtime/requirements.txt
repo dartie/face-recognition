@@ -2,3 +2,5 @@ cmake
 dlib
 face_recognition
 numpy
+cv2
+opencv-python
